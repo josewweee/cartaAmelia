@@ -1,3 +1,3 @@
 window.location.replace(
-  'https://drive.google.com/file/d/1CRmnRlaSntfDy6quX8I3388d7adkkKjX/view?usp=sharing'
+  'https://drive.google.com/file/d/1-1gL5V-nzvRp7vcSmO9hEnExBB9FOMJF/view?usp=drivesdk'
 );
